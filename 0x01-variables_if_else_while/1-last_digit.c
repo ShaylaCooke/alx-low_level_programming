@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - this is a function
- * Return - number generator
+ * main - Entry point
+ * Description: checks on the last digit of the assigned v
+ * Return: always 0 (success)
  */
 
 
