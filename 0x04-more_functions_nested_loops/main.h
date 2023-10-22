@@ -12,12 +12,10 @@ int mul(int a, int b);
 void print_number(int n);
 
 
-_putchar.c
-
 #include <unistd.h>
 
 /**
-   * _putchar - writes the character c to stdout
+   * _putcha - writes the character c to stdout
     * @c: The character to print
      *
       * Return: On success 1.
